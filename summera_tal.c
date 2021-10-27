@@ -1,7 +1,7 @@
               // mmm ... donuts
-         %:include<stdio.h>/*XXXXX*/
-    %:include<stdlib.h>/*XXXXXXXXXXXXXX*/
- int c(const void *a, const void *b)//XXXXX
+         %:include<stdio.h>/*!ioccc*/
+    %:include<stdlib.h>/*#include<std.h>*/
+ int c(const void *a, const void *b)//plåg:
 <%const int *ia = (const int *)a;//casting??\
 types const //                 <constchar[0]a;
 const int *ib=                 (const int *)b;
