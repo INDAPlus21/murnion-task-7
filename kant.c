@@ -1,4 +1,4 @@
-#define l for//XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX//
+#define l for//(int i=1, 1<l, l++) <%l -= i; i++%>
 #include<stdio.h>//               a very        //
 #include<stdlib.h>//         short and stubby   //
 #include<string.h>//           ruler            //
